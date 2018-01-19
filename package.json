@@ -1,0 +1,28 @@
+{
+  "name": "testnpm",
+  "version": "1.0.0",
+  "description": "test description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesseroyc/W1D5.git"
+  },
+  "keywords": [
+    "WeekOne",
+    "DayFive",
+    "One",
+    "Five"
+  ],
+  "author": "Jesse Roy-Cote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesseroyc/W1D5/issues"
+  },
+  "homepage": "https://github.com/jesseroyc/W1D5#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
